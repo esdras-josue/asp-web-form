@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokedex-web", "pokedex-web\pokedex-web.csproj", "{990F17D6-E820-4493-B4F5-FE2C237A8064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{016DEB0D-0863-47C7-B6E7-9D907218F312}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "negocio", "negocio\negocio.csproj", "{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{990F17D6-E820-4493-B4F5-FE2C237A8064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{990F17D6-E820-4493-B4F5-FE2C237A8064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{990F17D6-E820-4493-B4F5-FE2C237A8064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{990F17D6-E820-4493-B4F5-FE2C237A8064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{016DEB0D-0863-47C7-B6E7-9D907218F312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016DEB0D-0863-47C7-B6E7-9D907218F312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016DEB0D-0863-47C7-B6E7-9D907218F312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016DEB0D-0863-47C7-B6E7-9D907218F312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B80B4D1-2F4E-4602-80A8-6225DF8666B9}
+	EndGlobalSection
+EndGlobal

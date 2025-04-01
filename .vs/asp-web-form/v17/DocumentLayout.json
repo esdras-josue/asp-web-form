@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\master.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\pokemonlista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonlista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonLista.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\PokemonLista.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx",
+              "RelativeToolTip": "pokedex-web\\PokemonLista.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-01T00:36:53.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Default.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\Default.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Default.aspx",
+              "RelativeToolTip": "pokedex-web\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-01T00:36:36.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Master.Master",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Master.Master",
+              "RelativeDocumentMoniker": "pokedex-web\\Master.Master",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Master.Master",
+              "RelativeToolTip": "pokedex-web\\Master.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-01T00:31:39.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
