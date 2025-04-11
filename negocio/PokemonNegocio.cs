@@ -211,13 +211,13 @@ namespace negocio
             }
         }
 
-        public List<Pokemon> filtrar(string campo, string criterio, string filtro)
+        public List<Pokemon> filtrar(string campo, string criterio, string filtro, string estado)
         {
             List<Pokemon> lista = new List<Pokemon>();
             AccesoDatos datos = new AccesoDatos();
             try
             {
-                string consulta = "SELECT Numero, Nombre, P.Descripcion,UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad,P.IdTipo,P.IdDebilidad,P.Id FROM POKEMONS P, ELEMENTOS E, ELEMENTOS D WHERE E.Id = P.IdTipo AND D.Id = P.IdDebilidad And P.Activo = 1 And ";
+                string consulta = "SELECT Numero, Nombre, P.Descripcion,UrlImagen, E.Descripcion Tipo, D.Descripcion Debilidad,P.IdTipo,P.IdDebilidad,P.Id, P.Activo FROM POKEMONS P, ELEMENTOS E, ELEMENTOS D WHERE E.Id = P.IdTipo AND D.Id = P.IdDebilidad And ";
                 if(campo == "Numero")
                 {
                     switch (criterio)
@@ -253,17 +253,23 @@ namespace negocio
                     switch (criterio)
                     {
                         case "Comienza con":
-                            consulta += "P.Descripcion like '" + filtro + "%' ";
+                            consulta += "E.Descripcion like '" + filtro + "%' ";
                             break;
                         case "Termina con":
-                            consulta += "P.Descripcion like '%" + filtro + "'";
+                            consulta += "E.Descripcion like '%" + filtro + "'";
                             break;
                         default:
-                            consulta += "P.Descripcion like '%" + filtro + "%'";
+                            consulta += "E.Descripcion like '%" + filtro + "%'";
                             break;
                     }
                 }
-                datos.setearConsulta(consulta);
+
+                if (estado == "Activo")
+                    consulta += " and P.activo = 1";
+                else if (estado == "Inactivo")
+                    consulta += " and P.Activo = 0";
+
+                    datos.setearConsulta(consulta);
                 datos.ejecutarLectura();
                 while (datos.Lector.Read())
                 {
@@ -281,7 +287,7 @@ namespace negocio
                     aux.Debilidad.Id = (int)datos.Lector["IdDebilidad"];
                     aux.Debilidad.Descripcion = (string)datos.Lector["Debilidad"];
 
-
+                    aux.Activo = bool.Parse(datos.Lector["Activo"].ToString());
                     lista.Add(aux);
                 }
 
