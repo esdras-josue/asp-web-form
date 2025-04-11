@@ -1,3 +1,5 @@
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.csproj.CoreCompileInputs.cache
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\pokedex-web.dll.config
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\pokedex-web.dll
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\pokedex-web.pdb
@@ -50,10 +52,12 @@ C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\roslyn\vbc.exe
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\roslyn\vbc.rsp
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\roslyn\VBCSCompiler.exe
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\dominio.dll
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\negocio.dll
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\negocio.pdb
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.csproj.AssemblyReference.cache
-C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.csproj.CoreCompileInputs.cache
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-.5EDDBE6A.Up2Date
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.dll
 C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\pokedex-web\obj\Debug\pokedex-web.pdb

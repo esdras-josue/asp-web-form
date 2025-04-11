@@ -4,3 +4,9 @@ C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\dominio\obj\Debug\dominio.csproj.
 C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
 C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\dominio\obj\Debug\dominio.dll
 C:\Users\esdra\Desktop\C# nivel dos\PokemosApp\dominio\obj\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\bin\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\bin\Debug\dominio.pdb
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\obj\Debug\dominio.csproj.AssemblyReference.cache
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\obj\Debug\dominio.csproj.CoreCompileInputs.cache
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\obj\Debug\dominio.dll
+C:\Users\esdra\Desktop\C# nivel 3\asp-pokedex-web\dominio\obj\Debug\dominio.pdb

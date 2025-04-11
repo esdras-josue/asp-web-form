@@ -17,6 +17,12 @@ namespace negocio
             get { return lector; }
         }
 
+        public void setarProcedimiento(string sp)
+        {
+            comando.CommandType = System.Data.CommandType.StoredProcedure;
+            comando.CommandText = sp;
+        }
+
         public AccesoDatos()
         {
             conexion = new SqlConnection("server=.\\SQLEXPRESS; database=POKEDEX_DB; integrated security=true");
