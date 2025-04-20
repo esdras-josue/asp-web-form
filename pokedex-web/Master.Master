@@ -20,7 +20,7 @@
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                            <a class="nav-link active" aria-current="page" href="Default.aspx">Default</a>
+                            <a class="nav-link active" aria-current="page" href="Default.aspx">Home</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="PokemonLista.aspx">Pokedex List</a>
@@ -28,7 +28,30 @@
                         <li class="nav-item">
                             <a class="nav-link" href="FormularioPokemon.aspx">Formulario Pokemon</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="Favoritos.aspx">Favoritos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="MiPerfil.aspx">Mi Perfil</a>
+                        </li>
                     </ul>
+                </div>
+
+                <div class="d-flex">
+                    <% if (!negocio.Seguridad.SessionActiva(Session["Trainee"]))
+                        { %>
+                            <a href="Login.aspx" class="btn btn-success me-2">Login<a/>
+                            <a href="Registro.aspx" class="btn btn-outline-primary m-auto">Registrarse</a>
+                    <%
+                        }
+                        else
+                        {
+                    %>      
+                            <asp:Button Text="Salir" ID="btnSalir" CssClass="btn btn-outline-primary me-2" OnClick="btnSalir_Click" runat="server"/>
+                            <asp:Label id="lblUser" Text="user" CssClass="text-light m-auto me-2" runat="server" />
+                    <%} %>
+                    <asp:Image ID="imgAvatar" CssClass="ms-3" style="height:40px; width:40px; border-radius:50%;" 
+                        runat="server" />
                 </div>
             </div>
         </nav>

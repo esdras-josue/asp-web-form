@@ -14,6 +14,11 @@ namespace pokedex_web
         public bool FiltroAvanzado {  get; set; }
         protected void Page_Load(object sender, EventArgs e)
         {
+            if (!Seguridad.IsAdmin(Session["trainee"])) // Si el usuario no es Admin no puede acceder a la pagina de lista de pokemons
+            {
+                Session.Add("Error", "Se requiere permiso de administrador para acceder a esta pagina.");
+                Response.Redirect("Error.aspx");
+            }
             FiltroAvanzado = chkAvanzado.Checked;
 
             if (!IsPostBack) 

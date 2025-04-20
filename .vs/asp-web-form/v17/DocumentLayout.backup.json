@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\pokemonlista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonlista.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\negocio\\traineenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|solutionrelative:negocio\\traineenegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C645CF23-B7CD-4FB5-9C20-BC64038D6D7B}|negocio\\negocio.csproj|solutionrelative:negocio\\pokemonnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\registro.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\pokemonlista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\pokemonlista.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\registro.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,41 +54,93 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PokemonLista.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx.cs",
-              "RelativeDocumentMoniker": "pokedex-web\\PokemonLista.aspx.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx.cs",
-              "RelativeToolTip": "pokedex-web\\PokemonLista.aspx.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwDMAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Registro.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Registro.aspx.cs",
+              "RelativeDocumentMoniker": "pokedex-web\\Registro.aspx.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Registro.aspx.cs",
+              "RelativeToolTip": "pokedex-web\\Registro.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T01:49:46.733Z",
+              "WhenOpened": "2025-04-19T21:38:02.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PokemonNegocio.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\negocio\\PokemonNegocio.cs",
-              "RelativeDocumentMoniker": "negocio\\PokemonNegocio.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\negocio\\PokemonNegocio.cs",
-              "RelativeToolTip": "negocio\\PokemonNegocio.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAArwCkBAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T02:33:24.224Z",
+              "Title": "Registro.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Registro.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\Registro.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Registro.aspx",
+              "RelativeToolTip": "pokedex-web\\Registro.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-19T21:37:57.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PokemonLista.aspx",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx",
-              "RelativeDocumentMoniker": "pokedex-web\\PokemonLista.aspx",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\PokemonLista.aspx",
-              "RelativeToolTip": "pokedex-web\\PokemonLista.aspx",
+              "DocumentIndex": 3,
+              "Title": "MiPerfil.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\MiPerfil.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx",
+              "RelativeToolTip": "pokedex-web\\MiPerfil.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-04-10T01:43:59.058Z",
+              "WhenOpened": "2025-04-19T21:26:45.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TraineeNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\negocio\\TraineeNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\TraineeNegocio.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\negocio\\TraineeNegocio.cs",
+              "RelativeToolTip": "negocio\\TraineeNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:52:34.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MiPerfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx.cs",
+              "RelativeDocumentMoniker": "pokedex-web\\MiPerfil.aspx.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx.cs",
+              "RelativeToolTip": "pokedex-web\\MiPerfil.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T20:27:29.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Login.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\Login.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Login.aspx",
+              "RelativeToolTip": "pokedex-web\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-19T01:04:20.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "pokedex-web\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Login.aspx.cs",
+              "RelativeToolTip": "pokedex-web\\Login.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T00:35:51.308Z",
               "EditorCaption": ""
             }
           ]

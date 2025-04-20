@@ -14,6 +14,7 @@ namespace pokedex_web
         public bool confirmarEliminacion {  get; set; } 
         protected void Page_Load(object sender, EventArgs e)
         {
+
             txtId.Enabled = false; // Deshabilita la caja de texto id del formulario
             confirmarEliminacion = false;
 
@@ -68,8 +69,8 @@ namespace pokedex_web
             }
             catch (Exception ex) 
             {
-                Session.Add("error", ex);
-                throw;
+                Session.Add("error", ex.ToString());
+                Response.Redirect("Erros.aspx", false);
             }
 
         }
@@ -106,8 +107,8 @@ namespace pokedex_web
             }
             catch (Exception ex)
             {
-                Session.Add("error", ex);
-                throw;
+                Session.Add("error", ex.ToString());
+                Response.Redirect("Erros.aspx", false);
             }
         }
 
@@ -140,8 +141,8 @@ namespace pokedex_web
             }
             catch (Exception ex)
             {
-                Session.Add("error", ex);
-                throw;
+                Session.Add("error", ex.ToString());
+                Response.Redirect("Erros.aspx", false);
             }
         }
 
@@ -166,6 +167,7 @@ namespace pokedex_web
             {
 
                 Session.Add("error", ex);
+                Response.Redirect("Erros.aspx", false);
             }
         }
 
@@ -180,8 +182,8 @@ namespace pokedex_web
             }
             catch (Exception ex)
             {
-
-                Session.Add("error", ex);
+                Session.Add("error", ex.ToString());
+                Response.Redirect("Erros.aspx", false);
             }
         }
     }
