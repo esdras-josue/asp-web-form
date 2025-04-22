@@ -23,6 +23,12 @@ namespace pokedex_web
             try
             {
                 // capturar lo que el usuario ingrese en la caja de texto
+                if(string.IsNullOrEmpty(txtEmail.Text) || string.IsNullOrEmpty(txtPassord.Text))
+                {
+                    Session.Add("error", "Email o  Contraseña vacia");
+                    Response.Redirect("Error.aspx");
+                }
+
                 trainee.Email = txtEmail.Text;  
                 trainee.Pass = txtPassord.Text;
                 if (TraineeNegocio.Login(trainee))
@@ -38,6 +44,7 @@ namespace pokedex_web
                     Response.Redirect("Error.aspx");
                 }
             }
+           // catch(System.Threading.ThreadAbortException ex) { }
             catch (Exception ex)
             {
 
@@ -45,5 +52,15 @@ namespace pokedex_web
                 Response.Redirect("Error.aspx", false);
             }
         }
+
+        /*
+        private void Aplication_Error(object sender, EventArgs e)
+        {
+            Exception exc = Server.GetLastError();
+
+            Session.Add("error", exc.ToString());
+            Server.Transfer("Error.aspx");
+        }
+        */
     }
 }

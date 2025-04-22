@@ -44,6 +44,9 @@ namespace pokedex_web
             Trainee user = (Trainee)Session["trainee"];
             try
             {
+                Page.Validate();
+                if (!Page.IsValid) // valida la pagina para que se ejecute las validaciones
+                    return;
                 // guardar imagen
                 if(txtImage.PostedFile.FileName != "")
                 {

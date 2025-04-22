@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\miperfil.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|c:\\users\\esdra\\desktop\\c# nivel 3\\asp-pokedex-web\\pokedex-web\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{990F17D6-E820-4493-B4F5-FE2C237A8064}|pokedex-web\\pokedex-web.csproj|solutionrelative:pokedex-web\\miperfil.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Global.asax.cs",
-              "RelativeDocumentMoniker": "pokedex-web\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\Global.asax.cs",
-              "RelativeToolTip": "pokedex-web\\Global.asax.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwDQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T22:38:13.451Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -40,6 +31,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiPerfil.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx.cs",
+              "RelativeDocumentMoniker": "pokedex-web\\MiPerfil.aspx.cs",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx.cs",
+              "RelativeToolTip": "pokedex-web\\MiPerfil.aspx.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwC8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T23:19:50.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiPerfil.aspx",
+              "DocumentMoniker": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx",
+              "RelativeDocumentMoniker": "pokedex-web\\MiPerfil.aspx",
+              "ToolTip": "C:\\Users\\esdra\\Desktop\\C# nivel 3\\asp-pokedex-web\\pokedex-web\\MiPerfil.aspx",
+              "RelativeToolTip": "pokedex-web\\MiPerfil.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-21T23:19:45.709Z",
+              "EditorCaption": ""
             }
           ]
         }
